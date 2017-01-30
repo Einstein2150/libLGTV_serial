@@ -65,6 +65,10 @@ Same goes for any bugs you find, create an issue or email me.
 
 And contributions are very much welcome!
 
+## Web-Interface for libLGTV_serial
+There is a web-interface using this repository. Try it, if you want to turn your mobile or tablet in a remot-control for your LG-TV:
+- [Einstein2150/lg-remote](https://github.com/Einstein2150/lg-remote)
+
 ## Credits ##
 - [Jon Smith's blog post](http://www.thelazysysadmin.net/2009/05/rs232-control-lg-lcd-tv-mythtv/) which is the core of the library
 - [Evan Fosmark](http://www.evanfosmark.com/2009/01/cross-platform-file-locking-support-in-python/) for filelock.py
